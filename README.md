@@ -40,8 +40,8 @@ This sheet provides funding amounts categorized by decade and tier:
 
 Row Labels
 Sum of Amount (in dollars)
+
 5. HeadQuarters-Avg.Amount
 This sheet shows the average funding amount by headquarters:
-
 Headquarters
 Average of Amount (in dollars)
